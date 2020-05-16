@@ -1,1 +1,7 @@
-#contain popup info
+
+  
+def Message(): 
+    x = "Notifier  Works"
+    return x
+    
+  
